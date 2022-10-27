@@ -1,0 +1,32 @@
+{
+  "category" : "Super hero movies and series",
+  "acceptedFranchises" : [ "DC", "Marvel" ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark", "Funny" ],
+  "movies" : [ {
+    "title" : "Batman",
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Heath Ledger" ]
+  }, {
+    "title" : "Justice League",
+    "year" : 2010,
+    "cast" : [ "Heny Cavill", "Gal Cadot" ]
+  }, {
+    "title" : "The Avengers",
+    "year" : 2011,
+    "cast" : [ "Chris Evans", "Chris Hemsworth" ]
+  } ],
+  "tvSeries" : [ {
+    "title" : "Flash",
+    "year" : 2008
+  }, {
+    "title" : "Gotham",
+    "year" : 2010
+  }, {
+    "title" : "Super Girl",
+    "year" : 2012
+  } ],
+  "otherDetails" : {
+    "country" : "USA",
+    "language" : "English"
+  }
+}
